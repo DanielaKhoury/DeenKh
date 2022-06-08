@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Daniela
-- 👀 I’m interested in HTML, CSS and JavaScript
+- 👀 I’m interested in HTML, CSS and JavaScript and I'm currently working in this field.
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking for a position to enhance my skills in Web development.
 <!--- 📫 You can reach me on Daniela --->
